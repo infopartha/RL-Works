@@ -1,0 +1,8 @@
+numpy==1.26.3
+pandas==2.2.0
+pygame==2.5.2
+gym==0.26.2
+matplotlib==3.8.3
+tensorflow==2.16.1
+tensorboard==2.10.1
+tqdm==4.66.2
